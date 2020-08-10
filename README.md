@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  Ecoleta - A maneira mais fácil de jogar fora o lixo
+  GLPI - A maneira mais fácil consultar chamados
 </h3>
 <p align="center">
   <a href="#recycle-about-the-project">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
