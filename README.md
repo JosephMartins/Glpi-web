@@ -24,9 +24,13 @@
 
 Soon
 
-## 🚀 Technologies
+## 🚀 Tecnologias
 
-Soon
+- ReactJS
+  - React Hooks
+- Typescript
+- Axios
+
 
 ## 💻 Começando
 
